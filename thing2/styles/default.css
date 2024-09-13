@@ -1,0 +1,6 @@
+canvas {
+    border: 5px solid #d3d3d3;
+    background-color: #f1eeee;
+	background-image: url("../img/server_room.png");
+	background-size:600px 400px;
+}
